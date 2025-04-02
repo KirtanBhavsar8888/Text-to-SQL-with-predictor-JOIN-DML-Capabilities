@@ -1,0 +1,11 @@
+EmployeeID,Name,DepartmentID,Salary
+1,Alice,101,60000
+2,Bob,102,75000
+3,Charlie,101,50000
+4,David,103,80000
+5,Eve,102,72000
+6,Frank,101,55000
+7,Grace,104,65000
+8,Hank,103,90000
+9,Ivy,102,71000
+10,Jack,104,67000
