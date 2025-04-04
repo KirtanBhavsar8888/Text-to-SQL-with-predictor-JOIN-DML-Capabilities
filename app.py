@@ -14,7 +14,7 @@ from crew import display_heatmap_analysis
 from predictor import prediction_page
 
 # Set up the API key
-os.environ['GROQ_API_KEY'] = "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"
+os.environ['GROQ_API_KEY'] = "YOUR_API_Key"
 
 # Initialize session state variables
 if 'db_connected' not in st.session_state:
