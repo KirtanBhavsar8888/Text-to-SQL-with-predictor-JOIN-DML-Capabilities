@@ -102,12 +102,6 @@ Refer to `requirements.txt` for a complete list of dependencies.
 
 ---
 
-## 🖼️ Screenshots
-
-### Text-to-SQL Query Generation  
-![Text-to-SQL Screenshot](https://via.placeholder.com/800x400.png?text=Textictive Analytics Dashboard  
-![Predictive Analytics Screenshot](https://via.placeholder.com/800x400.png?text=Predictive+Analytics Testing
-
 ### Synthetic Data Generation
 Run the following script to generate synthetic datasets:
 ```bash
