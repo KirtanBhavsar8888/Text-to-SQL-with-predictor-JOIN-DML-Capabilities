@@ -122,9 +122,6 @@ Contributions are welcome! To contribute:
 4. Push to your branch (`git push origin feature-name`).
 5. Create a pull request.
 
----
-
----
 
 ## 📧 Contact
 
@@ -140,4 +137,4 @@ This README provides a professional overview of your project while being easy to
 
 
 ---
-Answer from Perplexity: pplx.ai/share
+
