@@ -108,9 +108,6 @@ Run the following script to generate synthetic datasets:
 python data_generator.py
 ```
 
-### Unit Tests
-Coming soon!
-
 ---
 
 ## 🤝 Contributing
